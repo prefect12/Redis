@@ -6,10 +6,10 @@
 
 ****
 ### 第一章思维导图
-####Reids介绍
+### Reids介绍
 ![Redis介绍](./img/Redis介绍.png)
 
 ***
 ### 第二章思维导图
-####Redis数据类型
+### Redis数据类型
 ![Redis数据类型](./img/Redis数据类型.png)
